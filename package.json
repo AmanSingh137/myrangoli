@@ -1,0 +1,15 @@
+{
+  "name": "myrangoli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmanSingh137/handsOnRangoli.git"
+  },
+  "author": "Aman Kumar Singh",
+  "license": "ISC"
+}
