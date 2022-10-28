@@ -3,17 +3,21 @@ body {
     justify-content: center;
     box-sizing: border-box;
     background-color: #bbb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .cont{
     background-color:  #326872;
     background: hsl(189, 39%, 32%);
-    height: 500px;
-    width: 500px;
+    height: 520px;
+    width: 520px;
     border-radius: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 100px;
 }
 
 .rangoli {

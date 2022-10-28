@@ -43,7 +43,7 @@ for (var i = 1; i <= 40; ++i) {
 
 var outerCircle = 360/40;
 var radOuter = 230;
-var offsetToChildCenterOuter = -100;
+var offsetToChildCenterOuter = -95;
 var totalOffsetOuter = offsetToChildCenter - offsetToChildCenterOuter;
 for(var i = 1; i <= 40; ++i)
 {
